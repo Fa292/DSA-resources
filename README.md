@@ -60,3 +60,6 @@ To solve questions on DSA
 2. https://leetcode.com/
 3. https://codeforces.com/
 4. https://www.codewars.com/
+
+https://www.geeksforgeeks.org/dsa/understanding-time-complexity-simple-examples/
+https://carloarg02.medium.com/my-favorite-coding-question-to-give-candidates-17ea4758880c
